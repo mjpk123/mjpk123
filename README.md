@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently student
+I Recently graduate in (computer application)
 
 
 # 💻 Tech Stack:
